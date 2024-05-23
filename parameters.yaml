@@ -1,0 +1,4 @@
+server_name: "10.151.0.251"
+api_token: "SL65ORAY5FXGJZ3AMNKDOIM6J6YLV73XRADVRYZWDQ======"
+csv_output: "C:\\Users\\luke\\Documents\\output\\output.csv"
+xml_output: "C:\\Users\\luke\\Documents\\output\\output.xml"
