@@ -1,0 +1,3 @@
+OBJID,OLD_NAME,HOST,NEW_NAME
+2145,testrouter (10.41.1.121) [Cisco Device Cisco IOS],10.41.1.121,Cisco-Router-TEST
+2160,Cisco Switch (10.41.1.106),10.41.1.106,Cisco-SW-01
