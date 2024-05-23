@@ -13,3 +13,8 @@ getDeviceInfo.py
 Gets a list of all devices in your PRTG system. Creates a csv and xml file as output. 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+enableLocationInheritence.py
+
+Enables Location Inheritence on ALL devices in your PRTG system. The benefit of this is that you can add location data to groups and the devices within those groups will inherit that location. 
+This helps with the GeoMap feature in PRTG. 
