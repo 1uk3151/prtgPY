@@ -44,3 +44,9 @@ Does the same as getSysInfo_ALL.py, but only outputs Serial Number information.
 getSysInfo_Aruba-Switches.py
 
 This script shows an example of how you can modify getSysInfo_ALL.py to select only specific data. This particular script will only output information for devices that contain "Aruba" in the device name. It will only output the data that contains the string "Serial Number" and "Switch", but not the string "Power Supply". By doing this, it narrows the data down to only SNs of switches with "Aruba" in the name and eliminates SNs for the modules associated with the device. You will likely need to run getSysInfo_ALL.py first and see what the data looks like before customizing the script to select specific data. 
+
+--------------------------------------------
+renameDevices.py
+
+Use the RenamingTemplate.csv. Place the devices that you want to rename into the renaming template. The devices will be renamed in the following format: NEW_NAME (HOST). Ex. Cisco-SW-01 (192.168.1.2)
+
